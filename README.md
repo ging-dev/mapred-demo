@@ -12,5 +12,5 @@ python mapred.py
 
 ## Credit
 
-Thanh Tran (Answer)
-Tran Thi Minh Nguyet (Question)
+- Thanh Tran (Answer)
+- Tran Thi Minh Nguyet (Question)
